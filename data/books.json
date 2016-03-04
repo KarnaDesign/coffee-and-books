@@ -1,0 +1,39 @@
+{
+  "authors": [
+    {
+      "id": 1,
+      "firstName": "Jane",
+      "lastName": "Austen"
+    },
+    {
+      "id": 2,
+      "firstName": "Neil",
+      "lastName": "Gaiman"
+    },
+    {
+      "id": 3,
+      "firstName": "David",
+      "lastName": "Eddings"
+    }
+
+  ],
+
+  "books": [
+    {
+      "title": "Pride and Prejudice",
+      "authorId": 1
+    },
+    {
+      "title": "Emma",
+      "authorId": 1
+    },
+    {
+      "title": "Good Omens",
+      "authorId": 2
+    },
+    {
+      "title": "Pawn of Prophecy",
+      "authorId": 3
+    }
+  ]
+}

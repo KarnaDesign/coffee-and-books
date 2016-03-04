@@ -41,6 +41,7 @@ require_once("top.php");
         <div id="authors">
             <header><h4>Author menu</h4></header>
             <ul>
+                <!--
                 <li>Jane Austen
                     <ul>
                         <li>Pride and Prejudice</li>
@@ -120,6 +121,7 @@ require_once("top.php");
                         <li>The Wishsong of Shannara</li>
                     </ul>
                 </li>
+                -->
             </ul>
         </div>
     </div>
